@@ -13,8 +13,9 @@ This is a machine learning project I built to detect brain tumors in MRI images 
 - `train_cnn.py`: Code to build and train the CNN.
 - `test_cnn.py`: Code to test the CNN on 26 images.
 - `predict_image.py`: Code to predict on a random image.
-- `trained_brain_tumor_cnn.h5`: The saved trained model (not uploaded due to size, available locally).
+- `brain_tumor_cnn.h5`: The saved trained model (93.4 MB).
 - `test_image.jpg`: The image used for real-world testing.
+- `README.md`: This project description.
 
 ## Dataset
 I used a dataset of 245 MRI images (not uploaded due to size and copyright). It was split into training (195), validation (24), and test (26) sets.
@@ -34,4 +35,4 @@ I used a dataset of 245 MRI images (not uploaded due to size and copyright). It 
 3. Run `python predict_image.py` to see the prediction.
 
 ## Contact
-Created by Nawaz khan. GitHub: [NawazkhanECE]. Email: khannawazkn2004@gmail.com.
+Created by [Nawaz Khan]. GitHub: [NawazkhanECE]. Email: [khannawazkn2004@gmail.com].
